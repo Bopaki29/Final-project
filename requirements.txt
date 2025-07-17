@@ -1,0 +1,14 @@
+torch
+torchvision
+opencv-python
+pyttsx3
+tqdm
+matplotlib
+numpy
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+#pip install -r requirements.txt
